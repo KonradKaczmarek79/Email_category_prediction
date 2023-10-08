@@ -10,3 +10,6 @@ It is an optional extra exercise which is an extension of the example implemente
 `fetch_20newsgroups` from `sklearn.datasets` which include: 
 - training data (11314 - documents with e-mails from 20 different categories and list of labels for each document)
 - test data (7532 - documents with e-mails from 20 different categories and list of labels for each document)
+
+***This repository is not finished yet!
+It is still under construction!***
